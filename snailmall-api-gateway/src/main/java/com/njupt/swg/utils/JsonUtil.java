@@ -125,7 +125,7 @@ public class JsonUtil {
         }
     }
 
-    public void testGit(){
-
+    public void masterGit(){
+        System.out.println("master");
     }
 }
