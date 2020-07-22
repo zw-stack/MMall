@@ -125,7 +125,4 @@ public class JsonUtil {
         }
     }
 
-    public void testGit1(){
-        System.out.println("Test");
-    }
 }
